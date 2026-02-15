@@ -6,7 +6,7 @@
  También he notado que el uso excesivo de IA hasta para tareas simples como redactar un texto como este, me han oxidado mi capacidad cerebral, así que procuraré usarla sólo como un mapa y no como un GPS. Si bien, las LLM (Large Language Model) nos han servido a todos en los últimos años, también pasa algo similar a lo que está sucediendo con las redes sociales hoy en día: todo te lo dan rápido y sin esfuerzo. Ese golpe de dopamina instantáneo o la llamada "recompensa a corto plazo" nos ha deteriorado nuestra capacidad de atención, nos genera adicción y aumenta la ansiedad y depresión. Ya nos acostumbramos a tenerlo todo al instante que, si algo tarda un poquito, nos aburre o pasamos de largo. Este repositorio es mi intento por salir de esa espiral de horror digital. Juro por mi vida que todo lo que estoy escribiendo ha sido de mi propia mente y mano.
 
  Para esta bitácora usaré DeepSeek unicamente para ayudarme a comprender lo que no puedo entender del todo a la hora de estar estudiando con MDN Web Docs y freeCodeCamp.
-
+ También, algo que me ayudó bastante a estar concentrado, son los sonidos binaurales con frecuencia entre 30 y 50 hz, al menos a mí sí me sirven.
  Empezamos con el temario, por ahora veré lo siguiente:
 
  ## Temario de Estudio
